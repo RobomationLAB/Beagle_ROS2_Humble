@@ -9,3 +9,4 @@ Ubuntu 22.04 LTS버전을 권장합니다.
 wget https://raw.githubusercontent.com/RobomationLAB/Beagle_ROS2_Humble/main/Beagle_ROS2_Humble.sh; chmod +x Beagle_ROS2_Humble.sh; ./Beagle_ROS2_Humble.sh
 ```
 
+![example](example.png)
