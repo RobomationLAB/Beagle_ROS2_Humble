@@ -79,13 +79,12 @@ sh -c "echo \"export RCUTILS_LOGGING_USE_STDOUT=0\" >> ~/.bashrc"
 sh -c "echo \"export RCUTILS_LOGGING_BUFFERED_STREAM=1\" >> ~/.bashrc"
 
 sh -c "echo \"alias sb='source ~/.bashrc'\" >> ~/.bashrc"
-sh -c "echo \"alias gb='gedit ~/.bashrc'\" >> ~/.bashrc"
 
 sh -c "echo \"alias cw='cd ~/robot_ws'\" >> ~/.bashrc"
 sh -c "echo \"alias cs='cd ~/robot_ws/src'\" >> ~/.bashrc"
 
 sh -c "echo \"alias cb='cd ~/robot_ws && colcon build --symlink-install'\" >> ~/.bashrc"
-sh -c "echo \"alias cba='colcon build --symlink-install'\" >> ~/.bashrc"
+sh -c "echo \"alias cbs='colcon build --symlink-install'\" >> ~/.bashrc"
 
 sh -c "echo \"alias rt='ros2 topic list'\" >> ~/.bashrc"
 sh -c "echo \"alias re='ros2 topic echo'\" >> ~/.bashrc"
