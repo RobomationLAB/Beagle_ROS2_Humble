@@ -21,4 +21,4 @@ wget https://raw.githubusercontent.com/RobomationLAB/Beagle_ROS2_Humble/main/Bea
 
 ![example](typeexample.png)
 
-www.robomation.co.kr
+www.robomation.com
